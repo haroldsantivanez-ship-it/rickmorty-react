@@ -29,7 +29,7 @@ Abre [http://localhost:5173](http://localhost:5173)
 
 ## 🔗 Links
 
-- **Deploy:** [https://rickmorty-react.vercel.app](https://rickmorty-react.vercel.app) ← *actualiza con tu URL*
+- **Deploy:** [https://rickmorty-react.vercel.app](https://rickmorty-react.vercel.app)
 - **Video demo:** [https://youtu.be/XXXXXXX](https://youtu.be/XXXXXXX) ← *actualiza con tu video*
 
 ## 📁 Estructura
